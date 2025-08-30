@@ -96,4 +96,4 @@ if st.button("🚀 Generate My Study Plan"):
 
 # Footer
 st.markdown("<hr>", unsafe_allow_html=True)
-st.markdown("<p style='text-align:center;font-size:13px;'>Made with ❤️ by Lohita Kanukolanu</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align:center;font-size:13px;'>Made with ❤️ by vijay kumar Dude</p>", unsafe_allow_html=True)
