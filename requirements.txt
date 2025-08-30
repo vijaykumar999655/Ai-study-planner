@@ -1,0 +1,5 @@
+python --version
+Python 3.8.2
+python -m venv venv
+python app.py (if it is not working i can put another) 
+streamlit run app.py
